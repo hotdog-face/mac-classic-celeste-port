@@ -1,0 +1,18 @@
+# Build output
+build/
+build_host_test
+*.o
+*.obj
+
+# Retro68 packaging artifacts
+*.bin
+*.APPL
+*.dsk
+*.rsrc
+*.ad
+*.code.bin
+*.code.bin.gdb
+
+# Editor / OS cruft
+.DS_Store
+*.bak
