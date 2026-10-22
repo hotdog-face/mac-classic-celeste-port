@@ -5,6 +5,8 @@ A port of **Celeste Classic** to the original black-and-white Macintosh — a
 with the [Retro68](https://github.com/autc04/Retro68) cross-compiler; runs on a
 real Mac Plus/SE/Classic (or in Mini vMac / Basilisk II).
 
+Part of [Classic Mac Games](https://www.mitchellv.me/work/classic-mac) · by [Mitchell Vizensky](https://www.mitchellv.me), game UX designer
+
 ![Celeste Classic running on a 1-bit Macintosh](docs/host-title.png)
 
 ## What this is
